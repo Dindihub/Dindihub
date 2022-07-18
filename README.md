@@ -17,7 +17,7 @@ src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtub
 src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="" target="_blank" rel="noreferrer"></a>
 
 * 🌍 I'm from Kenya
-* 👔 See my Portfolio at [Portfolio Link](https://dindihub.github.io/PORTFOLIO/)
+* 👔 See my Portfolio at [Portfolio Link](https://sandraportfolio.herokuapp.com/)
 * 🚀 See my articles [Hashnode](https://nyartech.hashnode.dev/)
 * 🧠  Currently Learning Angular|Python|Django [](http://webcontract.io)
 * 🤝 Open to collaborating on freelace Technical writing gigs and Development Projects
