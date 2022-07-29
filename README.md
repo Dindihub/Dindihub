@@ -6,12 +6,12 @@ Software Developer
 
 Software Developer | Technical Writer | Building Side Projects
 
-<a href="" target="_blank" rel="noreferrer"><img
+<a href="https://sandraportfolio.herokuapp.com/" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
-/> <a href="" target="_blank" rel="noreferrer"><img
+/> <a href="https://twitter.com/Nyartech_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-/></a> <a href="" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="" target="_blank" rel="noreferrer"><img
+/></a> <a href="https://www.linkedin.com/in/sandra-dindi/" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://nyartech.hashnode.dev/" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>  <a href="" target="_blank" rel="noreferrer"> <a href="" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a> <a href="" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="" target="_blank" rel="noreferrer"></a>
