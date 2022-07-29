@@ -19,13 +19,12 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 * 🌍 I'm from Kenya
 * 👔 See my [Portfolio](https://sandraportfolio.herokuapp.com/)
 * 🚀 See my articles on [Hashnode](https://nyartech.hashnode.dev/)
-* 🧠  My stack Angular|Python|Django|Bootstrap [](http://webcontract.io)
 * 🧠  Currently learning React,Redux,Ruby and AWS
 * 🤝 Open to collaborating on freelace Technical writing gigs and Development Projects
 * 💙 I love exploring with code | Spicy food | Travelling | Hiking | Some me-time 
 * ✉️ Write to me @ [sadindi03@gmail.com](sadindi03@gmail.com)
 
-### Skills
+### My Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
