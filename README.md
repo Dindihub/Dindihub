@@ -19,7 +19,7 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 * 🌍 I'm from Kenya
 * 👔 See my [Portfolio](https://sandraportfolio.herokuapp.com/)
 * 🚀 See my articles on [MUO](https://www.makeuseof.com/author/sandra-dindi/)
-* 🤝  Collaborating on Open-source projects. See my work at [AsyncAPI](https://github.com/asyncapi/community)community.
+* 🤝  Collaborating on Open-source projects. See my work at [AsyncAPI](https://github.com/asyncapi/community) community.
 * 🧠  Currently learning React,Redux,Ruby and AWS
 * 💙 I love exploring with code | Spicy food | Travelling | Hiking | Some me-time 
 * ✉️ Write to me @ [sadindi03@gmail.com](sadindi03@gmail.com)
