@@ -6,7 +6,7 @@ Software Developer
 
 Software Developer | Technical Writer | Building Side Projects
 
-<a href="https://sandraportfolio.herokuapp.com/" target="_blank" rel="noreferrer"><img
+<a href="https://sandrad.journoportfolio.com/" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
 /> <a href="https://twitter.com/Nyartech_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
