@@ -17,7 +17,7 @@ src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtub
 src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="" target="_blank" rel="noreferrer"></a>
 
 * 🌍 I'm from Kenya
-* 👔 See my [Portfolio](https://sandraportfolio.herokuapp.com/)
+* 👔 See my [Portfolio](https://sandrad.journoportfolio.com/)
 * 🚀 See my technical articles on [MUO](https://www.makeuseof.com/author/sandra-dindi/)
 * 🤝  Collaborating on Open-source projects. See my work at [AsyncAPI](https://github.com/asyncapi/community) community.
 * 🧠  Currently learning React,Ruby and Cloud engineering
