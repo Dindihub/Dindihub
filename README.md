@@ -1,7 +1,7 @@
 Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" /> My name is Sandra
 =====================
 
-Software Developer
+Content developer
 ------------------
 
 Software Developer | Technical Writer | Building Side Projects
@@ -18,10 +18,10 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 
 * 🌍 I'm from Kenya
 * 👔 See my [Portfolio](https://sandrad.journoportfolio.com/)
-* 🚀 See my technical articles on [MUO](https://www.makeuseof.com/author/sandra-dindi/)
+* 🚀 See my technical articles at [MUO](https://www.makeuseof.com/author/sandra-dindi/)
 * 🤝  Collaborating on Open-source projects. See my work at [AsyncAPI](https://github.com/asyncapi/community) community.
-* 🧠  Currently learning React,Ruby and Cloud engineering
-* 💙 I love exploring with code | Spicy food | Travelling | Hiking | Some me-time 
+* 🧠  Currently learning React, Ruby, and Cloud engineering
+* 💙 I love experimenting with tech | Spicy food | Travelling | Hiking | Some me-time 
 * ✉️ Write to me @ [sadindi03@gmail.com](sadindi03@gmail.com)
 
 ### My Stack
