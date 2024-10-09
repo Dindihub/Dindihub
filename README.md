@@ -6,7 +6,7 @@ Content developer
 
 Software Developer | Technical Writer | Building Side Projects
 
-<a href="https://sandrad.journoportfolio.com/" target="_blank" rel="noreferrer"><img
+<a href="https://dindihub.github.io/docsportfolio/" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
 /> <a href="https://twitter.com/Nyartech_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
@@ -17,10 +17,10 @@ src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtub
 src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="" target="_blank" rel="noreferrer"></a>
 
 * 🌍 I'm from Kenya
-* 👔 See my [Portfolio](https://sandrad.journoportfolio.com/)
+* 👔 See my [Portfolio](https://dindihub.github.io/docsportfolio/)
 * 🚀 See my technical articles at [MUO](https://www.makeuseof.com/author/sandra-dindi/)
-* 🤝  Collaborating on Open-source projects. See my work at [AsyncAPI](https://github.com/asyncapi/community) community.
-* 🧠  Currently learning React, Ruby, and Cloud engineering
+* 🤝  Collaborating on Open-source projects. See my work at [The update Framework](https://github.com/Dindihub/docsy-tuf.io), [CNCF](https://github.com/cncf/techdocs/tree/main/analyses/0012-TUF), and [AsyncAPI](https://github.com/asyncapi/community) community.
+* 🧠  Currently learning React, Ruby, Hugo, and DevOps.
 * 💙 I love experimenting with tech | Spicy food | Travelling | Hiking | Some me-time 
 * ✉️ Write to me @ [sadindi03@gmail.com](sadindi03@gmail.com)
 
