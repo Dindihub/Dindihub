@@ -6,7 +6,7 @@ Content developer
 
 Software Developer | Technical Writer | Building Side Projects
 
-<a href="https://dindihub.github.io/Docsportfolio/portfolio/" target="_blank" rel="noreferrer"><img
+<a href="https://dindihub.github.io/Docsportfolio/" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
 /> <a href="https://twitter.com/Nyartech_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
@@ -17,7 +17,7 @@ src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtub
 src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="" target="_blank" rel="noreferrer"></a>
 
 * 🌍 I'm from Kenya
-* 👔 See my [Portfolio](https://dindihub.github.io/Docsportfolio/portfolio/)
+* 👔 See my [Portfolio](https://dindihub.github.io/Docsportfolio/)
 * 🤝  Collaborating on Open-source projects. See my work at [The update Framework](https://github.com/theupdateframework/theupdateframework.io/pull/105#issuecomment-2408643170), [CNCF](https://github.com/cncf/techdocs/tree/main/analyses/0012-TUF), and [AsyncAPI](https://github.com/asyncapi/community/blob/master/Become-maintainer-in-existing-project.md) community.
 * 🚀 See my technical articles at [MUO](https://www.makeuseof.com/author/sandra-dindi/), [SemaText](https://sematext.com/glossary/kubernetes-quality-of-service-classes/), and [my personal blog](https://nyartech.hashnode.dev/?source=top_nav_blog_home)
 * 🧠  Currently, running startups @ [Earlyaccesshq](https://www.earlyaccesshq.com/), [Linkinweb](https://www.linkinweb.com/), and coming soon Copyfastai
