@@ -20,7 +20,7 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 * 👔 See my [Portfolio](https://technical-portfolio.netlify.app/)
 * 🤝  Collaborating on Open-source projects. See my work at [The update Framework](https://github.com/theupdateframework/theupdateframework.io/pull/105#issuecomment-2408643170), [CNCF](https://github.com/cncf/techdocs/tree/main/analyses/0012-TUF), and [AsyncAPI](https://github.com/asyncapi/community/blob/master/Become-maintainer-in-existing-project.md) community.
 * 🚀 See my technical articles at [MUO](https://www.makeuseof.com/author/sandra-dindi/), [SemaText](https://sematext.com/glossary/kubernetes-quality-of-service-classes/), and [my personal blog](https://nyartech.hashnode.dev/?source=top_nav_blog_home)
-* 🧠  Currently, running startups @ [Earlyaccesshq](https://www.earlyaccesshq.com/), [Linkinweb](https://www.linkinweb.com/), and [Copyfast.Ai](https://www.copyfast.ai/)
+* 🧠  Currently managing content @ [Earlyaccesshq](https://www.earlyaccesshq.com/), [Linkinweb](https://www.linkinweb.com/), and [Copyfast.Ai](https://www.copyfast.ai/)
 * 💙 I love experimenting with tech | Spicy food | Travelling | Hiking | Some me-time 
 * ✉️ Write to me @ [sadindi03@gmail.com](sadindi03@gmail.com)
 
